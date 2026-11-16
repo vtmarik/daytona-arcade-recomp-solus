@@ -1,3 +1,9 @@
+# Notes from this user:
+
+This was compiled on a machine running Solus Linux on KDE Plasma,with a Ryzen 7700X so that fancy new/old AVX is present too but hopefully it should work on just about any Linux machine (if not then you just gotta build it for yourself).
+
+Now I return you to Main's spiel.
+
 # Daytona USA static recompilation
 
 Daytona USA (Sega Model 2) rebuilt as native code: the game's i960 program
